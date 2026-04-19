@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.in  books",
+  "Type": "Screen",
+  "Id": "tOSI6kxh10i5HxwQayO46A",
+  "Reference": "qq088Bq3tk--5ex-jeCyFQ/tOSI6kxh10i5HxwQayO46A",
+  "ParentRef": "qq088Bq3tk--5ex-jeCyFQ/CCzzoyIUKEiyybBIvQA9Xw",
+  "Created": "2026-03-30T08:59:27.3435167Z",
+  "Updated": "2026-03-30T08:59:27.3435167Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

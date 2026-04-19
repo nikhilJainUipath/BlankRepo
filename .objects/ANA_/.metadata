@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Amazon.in  books",
+  "Type": "App",
+  "Id": "ANA_lkBGpEGCvsZKfxi2dA",
+  "Reference": "qq088Bq3tk--5ex-jeCyFQ/ANA_lkBGpEGCvsZKfxi2dA",
+  "Created": "2026-03-30T08:59:27.1304579Z",
+  "Updated": "2026-03-30T08:59:27.1304579Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

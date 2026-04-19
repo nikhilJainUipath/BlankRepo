@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QXUJZoWIQ063bPdfgnLUtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/s" DesignTimeRectangle="41, 243, 258, 48" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='SPAN' isleaf='1' /&gt;" Guid="c2834ef0-5974-4760-a14a-e062db73c52c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon.in : books' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="2dfb2158b9cf4fdbf1a5326b2bbb2c5b.jpg" xmlns="">0NAcMbqi2gkmm0U6Xoh1jqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
