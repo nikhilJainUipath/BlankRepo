@@ -20,7 +20,7 @@ steps:
 
 - task: UiPathPack@6
   inputs:
-    projectJsonPath: '$(Build.Sources.Directory)'
+    projectJsonPath: '$(Build.SourcesDirectory)'
     versionType: 'AutoVersion'
     outputPath: '$(Build.ArtifactStagingDirectory)\Output'
     orchestratorConnection: 'Orchestrator Connection'
